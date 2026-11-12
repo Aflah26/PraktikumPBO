@@ -1,0 +1,15 @@
+package TugasP5;
+
+public class Tugas6 {
+    public static void main(String[] args) {
+
+        for (int i = 0; i < 10; i++) {
+
+            if (i == 0) {
+                System.out.println(11);
+                System.out.println(11);
+            }
+
+        }
+    }
+}
